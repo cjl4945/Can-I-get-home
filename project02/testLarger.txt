@@ -1,0 +1,64 @@
+Routes
+1, RIT, NYC, 300
+2, Bos, NYC, 150
+3, RIT, Bos, 250
+4, Det, Sea, 900
+5, RIT, Buf, 80
+6, RIT, Syr, 75
+7, RIT, Roc, 10
+8, Syr, NYC, 250
+9, Syr, LA, 2000
+10, NYC, LA, 2200
+11, NYC, Mia, 1400
+12, Bos, Ldn, 1100
+13, Lnd, Buf, 1300
+14, Roc, Tor, 150
+15, Tor, NYC, 400
+16, Mia, Hos, 800
+17, NYC, Det, 400
+18, Mia, Det, 1000
+19, Det, Lnd, 1500
+Transportations
+1, Bicycle, 25, 1, 1000
+2, Rental, 100, 1, 200
+3, Airplane, 145, 1, 60
+4, Train, 65, 2, 120
+5, Boat, 10, 2, 150
+6, Airplane, 85, 3, 150
+7, Bus, 55, 3, 200
+8, Bicycle, 10, 3, 1600
+9, Train, 75, 3, 150
+10, Plane, 200, 4, 300
+11, Rental, 100, 4, 1000
+12, Train, 115, 4, 800
+13, Boat, 45, 5, 60
+14, Rental, 55, 5, 40
+15, Train, 50, 5, 55
+16, Train, 45, 6, 60
+17, Bicycle, 10, 6, 400
+18, Plane, 100, 6, 45
+19, Bicycle, 5, 7, 10
+20, Rental, 10, 7, 5
+21, Rental, 50, 8, 200
+22, Airplane, 100, 8, 120
+23, Train, 75, 8, 30
+24, Bicycle, 25, 9, 4000
+25, Train, 150, 9, 1500
+26, Boat, 25, 10, 5000
+27, Airplane, 500, 10, 200
+29, Boat, 15, 11, 1000
+30, Rental, 100, 11, 500
+31, Boat, 5, 12, 10000
+32, Airplane, 200, 13, 400
+33, Boat, 15, 14, 200
+34, Bicycle, 10, 14, 5000
+35, Airplane, 300, 15, 250
+36, Rental, 200, 15, 500
+37, Boat, 55, 16, 450
+38, Bus, 75, 16, 700
+39, Bus, 100, 17, 600
+40, Train, 140, 17, 500
+41, Train, 200, 18, 600
+42, Bus, 100, 18, 1000
+43, Airplane, 400, 19, 1200
+44, Boat, 0, 19, 30000
